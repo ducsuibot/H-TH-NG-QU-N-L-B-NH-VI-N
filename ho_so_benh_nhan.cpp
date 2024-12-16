@@ -1,3 +1,9 @@
+//	  |  ====GROUP 1====  |
+// 	  | Nguyen Minh Duc   |
+// 	  | Ngo Trung Hieu    |
+// 	  | Nguyen Tuan Viet  |
+// 	  | Ha Manh Chien     |
+// 	  | Le Hoang Long     |
 //================================ HE THONG QUAN LY BENH VIEN BANG CAU TRUC DSLK DON =========================================// 
 
 #include <stdio.h> 
